@@ -1,2 +1,4 @@
 # Python-Games
-Simple python games nothing special
+Simple Pygame games nothing special
+
+Simples jogos feito em Pygame, não a nada de especial
